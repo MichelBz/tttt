@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Auswertung
+comment1.params=
+comment1.target=Auswertung()
+comment2.params=n\ m\ p
+comment2.target=void\ mach(int,\ int,\ int)
+numComments=3
